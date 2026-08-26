@@ -76,3 +76,4 @@ app.listen(PORT, () => {
     console.log(`🚀 Servidor rodando na porta ${PORT}`);
     console.log(`📦 Total de itens armazenados: ${stolenItems.length}`);
 });
+Corrigindo erros do servidor
